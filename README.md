@@ -1,8 +1,19 @@
-# React + Vite
+🔐 **Secure-Password-Maker:**  
+This is a React.js and Tailwind CSS based website that helps users generate strong and random passwords.  
+Users can choose to include letters, special characters, and set the password length as per their need.  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🛠 **Tech Stack:**  
+React.js  
+Tailwind CSS  
 
-Currently, two official plugins are available:
+✅ **Features:**  
+Generate random passwords  
+Choose password length  
+Include/exclude letters and special characters  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+⚙️ **How to Run:**  
+npm install  
+npm run dev  
+
+
+**Note:** Make sure you are inside the project folder before running the above commands.
